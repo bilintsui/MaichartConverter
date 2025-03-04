@@ -3,4 +3,4 @@
 	url = git@github.com:Neskol/MaichartConverterUnitTest.git
 [submodule "MaiLib"]
 	path = MaiLib
-	url = https://github.com/Neskol/MaiLib.git
+	url = https://github.com/bilintsui/MaiLib.git
